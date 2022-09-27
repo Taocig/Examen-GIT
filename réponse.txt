@@ -1,3 +1,5 @@
+Valentin MERESSE
+
 1) A quoi sert un gestionnaire de versions ?
 1
 2
